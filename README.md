@@ -57,7 +57,8 @@
 
 ---
 
-<!-- Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/snake-output/snake.svg" alt="Snake animation" width="70%" />
-</p>
+###
+
+<img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/snake-output/snake.svg" alt="Snake animation" />
+
+###
