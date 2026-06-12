@@ -25,7 +25,7 @@
 
 </td>
 <td valign="top" width="35%" align="center">
-<img src="https://media.tenor.com/TTC9LXkJakUAAAAM/cute-sleepy.gif" width="180" style="border-radius: 8px;" />
+<img src="https://media.tenor.com/TTC9LXkJakUAAAAM/cute-sleepy.gif" width="180" />
 </td>
 </tr>
 </table>
@@ -34,30 +34,16 @@
 
 ### Technologies I wield
 
-<!-- FRONTEND -->
-<p align="left">
-  <img src="https://img.shields.io/badge/─────────%20FRONTEND%20─────────-0d1117?style=for-the-badge&logoColor=00FF88&labelColor=0d1117&color=00FF88" />
-</p>
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,react,nodejs&theme=dark" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/main/assets/frontend.svg" width="100%" alt="Frontend" />
 </p>
 
-<!-- BACKEND & DATA -->
-<p align="left">
-  <img src="https://img.shields.io/badge/─────────%20BACKEND%20%26%20DATA%20─────────-0d1117?style=for-the-badge&logoColor=00FF88&labelColor=0d1117&color=00FF88" />
-</p>
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=cs,java,spring,python,postgres,docker,git&theme=dark" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/main/assets/backend.svg" width="100%" alt="Backend & Data" />
 </p>
 
-<!-- MISC & WORKFLOW -->
-<p align="left">
-  <img src="https://img.shields.io/badge/─────────%20MISC%20%26%20WORKFLOW%20─────────-0d1117?style=for-the-badge&logoColor=00FF88&labelColor=0d1117&color=00FF88" />
-</p>
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=blender,godot,&theme=dark" /></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="48" alt="GIMP" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="48" alt="Inkscape" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/main/assets/misc.svg" width="100%" alt="Misc & Workflow" />
 </p>
 
 ---
