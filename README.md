@@ -10,14 +10,12 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 <p align="center">My name is Hugo and I am a Systems Engineering student and junior developer from Guatemala 🇬🇹</p>
 
-
 ###
-
 <h3 align="left">About me</h3>
 
 ###
 
-<img align="right" height="350" src="https://media.tenor.com/TTC9LXkJakUAAAAM/cute-sleepy.gif"  />
+<img align="right" height="300" src="https://media.tenor.com/TTC9LXkJakUAAAAM/cute-sleepy.gif"  />
 
 ###
 
