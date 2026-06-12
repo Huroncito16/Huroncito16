@@ -21,7 +21,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since... 2024 (o el año en que tiraste tu primera línea de código).<br><br>📚 I'm currently learning... Advanced microcontrollers integration (ESP32), IoT architectures, and speech recognition implementations.<br><br>🎯 Goals... Build scalable, production-ready full-stack applications and bridge the gap between hardware and software.</p>
+<p align="left">
+        ✨ Creating bugs since 2019, programming since age 16.
+<br><br>📚 Currently learning about layered security implementations, from the database to the frontend.
+<br><br>🎯 Goals: To create scalable, production-ready full-stack applications and bridge the hardware-software gap.
+<br><br>📚 I'm a big fan of Japanese-style tuned cars, especially the Toyota AE86 (Trueno & Levin), iconic from Project D in Initial D.</p>
 
 ###
 
