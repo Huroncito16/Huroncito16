@@ -3,8 +3,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Systems+Engineering+Student+%F0%9F%87%AC%F0%9F%87%B9;Full-Stack+Developer;Hardware+%2B+Software+Builder;Creating+bugs+since+2024+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
+<!-- Snake — usa el dark para que se vea bien en GitHub -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/snake-output/snake-dark.svg" alt="Snake animation" width="80%" />
+</p>
+
 <h1 align="center">Hey 👋 What's up?</h1>
 <p align="center">My name is Kevin and I'm a Systems Engineering Student & Full-Stack Developer from Guatemala 🇬🇹</p>
+
 
 
 <!-- About me -->
@@ -51,7 +57,3 @@
 </p>
 
 
-<!-- Snake — usa el dark para que se vea bien en GitHub -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/snake-output/snake-dark.svg" alt="Snake animation" width="80%" />
-</p>
