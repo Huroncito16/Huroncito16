@@ -20,17 +20,15 @@
 
 **🍟 Fun fact:** A Taquerito is a top-tier snack, not a full meal.
 
----
 
 ### Technologies I wield
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/main/assets/frontend.svg" height="280" />
-  <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/main/assets/backend.svg" height="280" />
-  <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/main/assets/misc.svg" height="280" />
+  <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/main/assets/frontend.svg" height="200" />
+  <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/main/assets/backend.svg" height="200" />
+  <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/main/assets/misc.svg" height="200" />
 </p>
 
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Huroncito16&show_icons=true&theme=github_dark&border_color=00FF88&icon_color=00FF88&title_color=00FF88" height="150" />
@@ -38,7 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huroncito16&layout=compact&theme=github_dark&border_color=00FF88&title_color=00FF88" height="150" />
 </p>
 
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/snake-output/snake-dark.svg" alt="Snake animation" width="80%" />
