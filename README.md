@@ -8,9 +8,7 @@
 
 
 <!-- About me -->
-<table border="0" width="100%">
-<tr>
-<td valign="top" width="65%">
+
 
 ### About me
 
@@ -22,12 +20,9 @@
 
 🍟 **Fun fact:** A Taquerito is a top-tier snack, not a full meal.
 
-</td>
-<td valign="top" width="35%" align="center">
+
 <img src="https://media.tenor.com/TTC9LXkJakUAAAAM/cute-sleepy.gif" width="180" />
-</td>
-</tr>
-</table>
+
 
 
 ### Technologies I wield
