@@ -11,25 +11,24 @@
 <p align="center">My name is Hugo and I am a Systems Engineering student and junior developer from Guatemala 🇬🇹</p>
 
 
+###
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td valign="top" width="70%">
+<h3 align="left">About me</h3>
 
-**✨ Creating bugs since...** 2019 — programming since age 16
+###
 
-**📚 I'm currently learning...** Advanced microcontroller integration (ESP32), IoT architectures, voice recognition implementations, and layered security from the database to the frontend.
+<img align="right" height="200" src="https://media.tenor.com/TTC9LXkJakUAAAAM/cute-sleepy.gif"  />
 
-**🎯 Goals...** To build scalable, production-ready full-stack applications and bridge the hardware-software gap.
+###
 
-**🍟 Fun fact:** Fan of Japanese-style tuned cars — and a Taquerito is still a top-notch snack, not a full meal.
+<p align="left">✨ Creating bugs since... 2024 (o el año en que tiraste tu primera línea de código).<br><br>📚 I'm currently learning... Advanced microcontrollers integration (ESP32), IoT architectures, and speech recognition implementations.<br><br>🎯 Goals... Build scalable, production-ready full-stack applications and bridge the gap between hardware and software.</p>
 
-</td>
-<td valign="top" align="center" width="30%">
-<img src="https://media.tenor.com/TTC9LXkJakUAAAAM/cute-sleepy.gif" width="200" />
-</td>
-</tr>
-</table>
+###
+
+<h3 align="left">I code with</h3>
+
+###
+
 
 
 ### Technologies I wield
