@@ -9,7 +9,7 @@
 ---
 
 <!-- About me -->
-<table align="center" border="0" width="100%">
+<table border="0" width="100%">
 <tr>
 <td valign="top" width="65%">
 
@@ -34,17 +34,20 @@
 
 ### Technologies I wield
 
-<p align="center">
+<!-- Las 3 secciones en una sola fila -->
+<table border="0" width="100%" cellspacing="8" cellpadding="0">
+<tr>
+<td width="33%" align="center">
   <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/main/assets/frontend.svg" width="100%" alt="Frontend" />
-</p>
-
-<p align="center">
+</td>
+<td width="33%" align="center">
   <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/main/assets/backend.svg" width="100%" alt="Backend & Data" />
-</p>
-
-<p align="center">
+</td>
+<td width="33%" align="center">
   <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/main/assets/misc.svg" width="100%" alt="Misc & Workflow" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -57,7 +60,7 @@
 
 ---
 
-<!-- Snake -->
+<!-- Snake — usa el dark para que se vea bien en GitHub -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/snake-output/snake.svg" alt="Snake animation" width="70%" />
+  <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/snake-output/snake-dark.svg" alt="Snake animation" width="80%" />
 </p>
