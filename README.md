@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">Hey 👋 What's up?</h1>
-<p align="center">My name is Kevin and I'm a Systems Engineering Student & Full-Stack Developer from Guatemala 🇬🇹</p>
+<p align="center">My name is Hugo and I am a Systems Engineering student and junior developer from Guatemala 🇬🇹</p>
 
 
 
@@ -16,13 +16,13 @@
 <tr>
 <td valign="top" width="70%">
 
-**✨ Creating bugs since...** 2024
+**✨ Creating bugs since...** 2019 — programming since age 16
 
-**📚 I'm currently learning...** Advanced microcontrollers integration (ESP32), IoT architectures, and speech recognition implementations.
+**📚 I'm currently learning...** Advanced microcontroller integration (ESP32), IoT architectures, voice recognition implementations, and layered security from the database to the frontend.
 
-**🎯 Goals...** Build scalable, production-ready full-stack applications and bridge the gap between hardware and software.
+**🎯 Goals...** To build scalable, production-ready full-stack applications and bridge the hardware-software gap.
 
-**🍟 Fun fact:** A Taquerito is a top-tier snack, not a full meal.
+**🍟 Fun fact:** Fan of Japanese-style tuned cars — and a Taquerito is still a top-notch snack, not a full meal.
 
 </td>
 <td valign="top" align="center" width="30%">
