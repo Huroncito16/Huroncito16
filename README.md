@@ -25,11 +25,11 @@
 
 ###
 
+---
+
 <h3 align="left">I code with</h3>
 
 ###
-
-
 
 ### Technologies I wield
 
