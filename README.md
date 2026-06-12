@@ -6,7 +6,6 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 <p align="center">My name is Kevin and I'm a Systems Engineering Student & Full-Stack Developer from Guatemala 🇬🇹</p>
 
----
 
 <!-- About me -->
 <table border="0" width="100%">
@@ -30,7 +29,6 @@
 </tr>
 </table>
 
----
 
 ### Technologies I wield
 
@@ -49,7 +47,6 @@
 </tr>
 </table>
 
----
 
 <!-- GitHub Stats -->
 <p align="center">
@@ -58,7 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huroncito16&layout=compact&theme=github_dark&border_color=00FF88&title_color=00FF88" height="150" />
 </p>
 
----
 
 <!-- Snake — usa el dark para que se vea bien en GitHub -->
 <p align="center">
