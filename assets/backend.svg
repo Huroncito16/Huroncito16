@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="860" height="130" viewBox="0 0 860 130">
+  <defs>
+    <style>
+      .label { font-family: 'Courier New', monospace; font-size: 11px; font-weight: 700; fill: #00ff88; letter-spacing: 3px; }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="856" height="126" rx="8" fill="#0d1117" stroke="#00ff88" stroke-width="1.5"/>
+  <text x="430" y="22" text-anchor="middle" class="label">── BACKEND &amp; DATA ──</text>
+  <line x1="20" y1="30" x2="840" y2="30" stroke="#00ff88" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- 8 icons: C#, Java, Spring, Python, PostgreSQL, Docker, Git, GitHub -->
+  <!-- spacing: 860/8 = ~107px per slot, centered at 53.5 + n*107 -->
+  <!-- x positions for center: 53, 160, 267, 374, 481, 588, 695, 802 → img x = center-23 -->
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"        x="30"  y="42" width="46" height="46"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"             x="137" y="42" width="46" height="46"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"         x="244" y="42" width="46" height="46"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"         x="351" y="42" width="46" height="46"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" x="458" y="42" width="46" height="46"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"         x="565" y="42" width="46" height="46"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"               x="672" y="42" width="46" height="46"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" x="759" y="42" width="62" height="46"/>
+
+  <text x="53"  y="102" text-anchor="middle" font-family="monospace" font-size="10" fill="#3d8b6e">C#</text>
+  <text x="160" y="102" text-anchor="middle" font-family="monospace" font-size="10" fill="#3d8b6e">Java</text>
+  <text x="267" y="102" text-anchor="middle" font-family="monospace" font-size="10" fill="#3d8b6e">Spring</text>
+  <text x="374" y="102" text-anchor="middle" font-family="monospace" font-size="10" fill="#3d8b6e">Python</text>
+  <text x="481" y="102" text-anchor="middle" font-family="monospace" font-size="10" fill="#3d8b6e">Postgres</text>
+  <text x="588" y="102" text-anchor="middle" font-family="monospace" font-size="10" fill="#3d8b6e">Docker</text>
+  <text x="695" y="102" text-anchor="middle" font-family="monospace" font-size="10" fill="#3d8b6e">Git</text>
+  <text x="790" y="102" text-anchor="middle" font-family="monospace" font-size="10" fill="#3d8b6e">GitHub</text>
+</svg>
