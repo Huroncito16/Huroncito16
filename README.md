@@ -3,14 +3,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Systems+Engineering+Student+%F0%9F%87%AC%F0%9F%87%B9;Full-Stack+Developer;Hardware+%2B+Software+Builder;Creating+bugs+since+2024+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/snake-output/snake-dark.svg" alt="Snake animation" width="80%" />
+</p>
+
 <h1 align="center">Hey 👋 What's up?</h1>
 <p align="center">My name is Kevin and I'm a Systems Engineering Student & Full-Stack Developer from Guatemala 🇬🇹</p>
 
----
 
-<p align="center">
-  <img src="https://media.tenor.com/TTC9LXkJakUAAAAM/cute-sleepy.gif" width="160" />
-</p>
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top" width="70%">
 
 **✨ Creating bugs since...** 2024
 
@@ -19,6 +23,13 @@
 **🎯 Goals...** Build scalable, production-ready full-stack applications and bridge the gap between hardware and software.
 
 **🍟 Fun fact:** A Taquerito is a top-tier snack, not a full meal.
+
+</td>
+<td valign="top" align="center" width="30%">
+<img src="https://media.tenor.com/TTC9LXkJakUAAAAM/cute-sleepy.gif" width="160" />
+</td>
+</tr>
+</table>
 
 
 ### Technologies I wield
@@ -37,6 +48,3 @@
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Huroncito16/Huroncito16/snake-output/snake-dark.svg" alt="Snake animation" width="80%" />
-</p>
